@@ -1,0 +1,8 @@
+C:\Users\jogos\Danielwp - Calculadora\Calculadora_Danielwp\bin\Debug\Calculadora_Danielwp.exe.config
+C:\Users\jogos\Danielwp - Calculadora\Calculadora_Danielwp\bin\Debug\Calculadora_Danielwp.exe
+C:\Users\jogos\Danielwp - Calculadora\Calculadora_Danielwp\bin\Debug\Calculadora_Danielwp.pdb
+C:\Users\jogos\Danielwp - Calculadora\Calculadora_Danielwp\obj\Debug\Calculadora_Danielwp.csproj.AssemblyReference.cache
+C:\Users\jogos\Danielwp - Calculadora\Calculadora_Danielwp\obj\Debug\Calculadora_Danielwp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Danielwp - Calculadora\Calculadora_Danielwp\obj\Debug\Calculadora_Danielwp.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Danielwp - Calculadora\Calculadora_Danielwp\obj\Debug\Calculadora_Danielwp.exe
+C:\Users\jogos\Danielwp - Calculadora\Calculadora_Danielwp\obj\Debug\Calculadora_Danielwp.pdb
